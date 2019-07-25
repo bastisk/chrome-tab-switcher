@@ -1,7 +1,7 @@
 {
     "name": "Tab Switcher",
-    "description" : "Base Level Extension",
-    "version": "1.0",
+    "description" : "Extension to switch between tabs.",
+    "version": "0.0.0.1",
     "manifest_version": 2,
     "browser_action": {
       "default_popup": "hello.html",
